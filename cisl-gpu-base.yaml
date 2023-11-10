@@ -12,8 +12,8 @@ dependencies:
   - pyvista[all,trame]
   - pyvista-xarray
   - cupy
-#  - rapids
-  - torchgeo
+  - rapids
+#  - torchgeo
   - argopy
   - arm_pyart
   - astropy
