@@ -11,9 +11,9 @@ dependencies:
   - catboost
   - pyvista[all,trame]
   - pyvista-xarray
-  - cupy
-  - rapids
-  - torchgeo
+#  - cupy
+#  - rapids
+#  - torchgeo
   - argopy
   - arm_pyart
   - astropy
