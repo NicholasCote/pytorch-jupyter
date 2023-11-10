@@ -13,7 +13,6 @@ dependencies:
   - pyvista-xarray
   - cupy
   - rapids
-#  - torchgeo
   - argopy
   - arm_pyart
   - astropy
